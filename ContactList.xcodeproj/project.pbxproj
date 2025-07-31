@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		B3E96CC52E2CD079001DE56E /* Exceptions for "ContactList" folder in "ContactList" target */ = {
+		B3B2066F2E38907700CF46CF /* Exceptions for "ContactList" folder in "ContactList" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				App/Info.plist,
@@ -24,7 +24,7 @@
 		B3E96CB52E2CD077001DE56E /* ContactList */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				B3E96CC52E2CD079001DE56E /* Exceptions for "ContactList" folder in "ContactList" target */,
+				B3B2066F2E38907700CF46CF /* Exceptions for "ContactList" folder in "ContactList" target */,
 			);
 			path = ContactList;
 			sourceTree = "<group>";
@@ -146,7 +146,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 2F54D8859X;
-				GENERATE_INFOPLIST_FILE = YES;
+				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = ContactList/App/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -178,7 +178,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 2F54D8859X;
-				GENERATE_INFOPLIST_FILE = YES;
+				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = ContactList/App/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
